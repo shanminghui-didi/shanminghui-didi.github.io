@@ -4,8 +4,8 @@
   <tr>
     <td width="75%">
       <h1>Minghui Shan</h1>
-      <p><b>Postgraduate</b></p>
-      <p><b>University of Science and Technology of China</b></p>
+      <p><b>PhD</b></p>
+      <p><b>Chinese Academy of Sciences</b></p>
       <p><b>Didi Chuxing, Beijing, China</b></p>
     </td>
     <td width="25%">
